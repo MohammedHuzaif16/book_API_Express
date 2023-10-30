@@ -1,8 +1,8 @@
-POST METHOD '/book'-> to add entry to the database.
-GET METHOD '/book' -> to get the data from teh database.
-GET METHOD '/book/:id' -> to get the data from the database based on id.
-PUT METHOD '/book/:id' -> to update the data based on id.
-DELETE METHOD '/book/:id' ->to delete the data from the database based on id.
+POST METHOD '/book'-> to add entry to the database.<br/>
+GET METHOD '/book' -> to get the data from teh database.<br/>
+GET METHOD '/book/:id' -> to get the data from the database based on id.<br/>
+PUT METHOD '/book/:id' -> to update the data based on id.<br/>
+DELETE METHOD '/book/:id' ->to delete the data from the database based on id.<br/>
 
 
 Step 1:
