@@ -1,3 +1,10 @@
+POST METHOD '/book'-> to add entry to the database.
+GET METHOD '/book' -> to get the data from teh database.
+GET METHOD '/book/:id' -> to get the data from the database based on id.
+PUT METHOD '/book/:id' -> to update the data based on id.
+DELETE METHOD '/book/:id' ->to delete the data from the database based on id.
+
+
 Step 1:
 -go to config.js file and add the Mongodb connection string.
 
